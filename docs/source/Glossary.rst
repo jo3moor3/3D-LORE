@@ -1,18 +1,19 @@
 Usage
 =====
 
-.. _installation:
+.. _Topology:
 
-Installation
+Topology
 ------------
+Ver·tex
+``/ˈvərˌteks/``
+each angular point of a polygon, polyhedron, or other figure.
+a meeting point of two lines that form an angle.
+the point at which an axis meets a curve or surface.
+.. autofunction:: TAGS
+   ``Geometry``, ``Topology``
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
+Rigging
 ----------------
 
 To retrieve a list of random ingredients,
@@ -23,6 +24,10 @@ you can use the ``lumache.get_random_ingredients()`` function:
 The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
 or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
 will raise an exception.
+
+
+Animation
+----------------
 
 .. autoexception:: lumache.InvalidKindError
 

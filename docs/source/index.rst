@@ -1,13 +1,12 @@
-Welcome to Lumache's documentation!
+3D LORE
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**3D LORE** is a wiki for 3D artists, riggers, technical animators, topology enthusiasts, video game developers, Motion graphics, VFX, and more
+I ill post evrything I learn here , and hope to keep growing it overtime. If eventully anyone cares to make additions, send me it at: **jo3moore@gmail.com** and I'll conider adding/changing it (with credits of course)
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+Check out the :doc:`Fundamentals` section for further information, including
+general vocab/terms for :ref:`Topology` , :ref:`Rigging` and :ref:`Animation`
 
 .. note::
 
