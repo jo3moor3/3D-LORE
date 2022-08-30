@@ -1,7 +1,7 @@
-API
+Topology
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   3D Lore

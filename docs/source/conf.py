@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '3D Lore'
+copyright = '2022, Joe Moore'
+author = 'Joe Moore'
 
 release = '0.1'
 version = '0.1.0'

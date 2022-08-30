@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+3D Lore - Python library for 3D developers and artists.
 """
 
 __version__ = "0.1.0"
